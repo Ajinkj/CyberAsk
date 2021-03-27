@@ -63,6 +63,7 @@ We build this webapp using flask, html, css, javascript and sqllite as database.
 And that's it now the CyberAsk will be runing in your local machine.
 # issue
 Due to some trouble with our hosting provider, our app is not loading, so instead of the website link we are providing a detailed video about CyberAsk, like how to use and it's features.
-
-It's just the begining, and we can add on more features to it and make it as successful as Stack-Over-Fow and it's an alarming situation for one like this.
+Link: https://drive.google.com/file/d/1OonjYJR_4j_1pA0ryRgT-wJX3wL8gd5H/view?usp=sharing
+# conclusion
+It's just the begining, and we can add on more features to it and make it as successful as Stack-Over-Fow and it's an alarming situation for one like this. People want their queries cleared, so it will make them aware of Cyber attack and take step accordingly.
 
